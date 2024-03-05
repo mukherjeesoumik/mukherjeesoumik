@@ -1,15 +1,10 @@
-- 👋 Hi, I’m Soumik Mukherjee
+<h1 align="center">HELLO AND WELCOME 👋, I'm Soumik Mukherjee </h1>
+<h3 align="center">A Web Developer</h3>
+
+<img src="Soumik.png">
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-
-
-
-
-<h1 align="center">Hi 👋, I'm Soumik Mukherjee </h1>
-<h3 align="center">A BTech Student  </h3>
-
-<img src="Soumik.png">
 <img src="dino.gif">
 
 
