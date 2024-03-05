@@ -1,10 +1,8 @@
-<h1 align="center">HELLO AND WELCOME 👋, I'm Soumik Mukherjee </h1>
+<h1 align="center">HELLO AND WELCOME 👋</h1>
+<h1 align="center">I'm Soumik Mukherjee </h1>
 <h3 align="center">A Web Developer</h3>
 
 <img src="Soumik.png">
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 <img src="dino.gif">
 
 
