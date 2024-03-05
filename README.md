@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Soumik Mukherjee </h1>
 <h3 align="center">A BTech Student  </h3>
-![Alt text](Soumik.png)
+
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
