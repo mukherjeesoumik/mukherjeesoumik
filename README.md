@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Soumik Mukherjee </h1>
 <h3 align="center">A BTech Student  </h3>
 
-[![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](https://soumikjee.github.io/Dino/)
+![Alt text]((https://soumikjee.github.io/Dino/)
 
 
 - 📫 How to reach me *onlinekazama19@gmail.com* 
