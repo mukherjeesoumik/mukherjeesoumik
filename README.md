@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soumik Mukherjee
+- 👋 Hi, I’m Soumik Mukherjee
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -9,7 +9,8 @@
 <h1 align="center">Hi 👋, I'm Soumik Mukherjee </h1>
 <h3 align="center">A BTech Student  </h3>
 
-<img src="Soumik.png">
+<img src="soumik.png">
+<img src="dino.gif">
 
 
 - 📫 How to reach me *onlinekazama19@gmail.com* 
