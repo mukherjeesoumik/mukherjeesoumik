@@ -4,13 +4,13 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Soumik Mukherjee and I'm from India</h2>
+<h2 align="center">Hi 👋! My name is Soumik Mukherjee and I'm from India </h2>
 
 ###
 
 <h3 align="center">Java Full Stack Developer and Backend Engineer</h3>
 
-<p align="center"> I also have experience in Frontend, Mobile, Blockchain, ML and Security, Devops Technologies</p>
+<p align="center"> I also have experience in Frontend, Mobile, ML and Security, Devops Technologies</p>
 
 ###
 
