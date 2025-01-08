@@ -113,6 +113,7 @@
 
 ###
 
+###
 
 <h1 align="center">HELLO AND WELCOME 👋</h1>
 <h1 align="center">I'm Soumik Mukherjee </h1>
@@ -120,6 +121,7 @@
 <img src="Soumik.png">
 <img src="dino.gif">
 
+###
 
 - 📫 How to reach me *onlinekazama19@gmail.com* 
 
