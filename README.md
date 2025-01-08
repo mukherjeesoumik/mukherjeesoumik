@@ -34,8 +34,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=photoshop" height="30" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lightroom" height="30" alt="lightroom logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
