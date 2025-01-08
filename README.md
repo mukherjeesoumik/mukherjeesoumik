@@ -1,7 +1,6 @@
-<p align="center">
+
 <img src="hello.svg" width="350" >
-</p>
-<div align="center">
+<div align="right">
   <img src="https://profile-counter.glitch.me/soumikmukherjee2002/count.svg?" width="300" />
 </div>
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> My name is SOUMIK MUKHERJEE and I'm from India 😉🎯 </h1>
