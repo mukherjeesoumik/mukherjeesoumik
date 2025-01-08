@@ -1,4 +1,4 @@
-<img align="center" src="hello.svg"  >
+<img src="hello.svg" width="1920" >
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/soumikmukherjee2002/count.svg?"  />
