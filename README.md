@@ -1,4 +1,4 @@
-![Hello](docs/hello.svg)
+<img src="hello.svg"  >
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/soumikmukherjee2002/count.svg?"  />
