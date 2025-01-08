@@ -72,7 +72,7 @@
   <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
- <img width="12" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=camva" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"  />
@@ -89,7 +89,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
+  <img src="https://skillicons.dev/icons?i=Jenkins" height="30" alt="nginx logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
   <img width="12" />
