@@ -113,9 +113,8 @@
 
 
 
-<h1 align="center">HELLO AND WELCOME 👋</h1>
+<h1 align="center">   HELLO AND WELCOME 👋</h1>
 <h1 align="center">I'm Soumik Mukherjee </h1>
-<h3 align="center">A Web Developer</h3>
 
 <img src="Soumik.png">
 <img src="dino.gif">
