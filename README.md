@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Hi 👋! My name is Soumik Mukherjee and I'm from India </h4>
+<h3 align="center">Hi 👋! My name is Soumik Mukherjee and I'm from India </h3>
 
 ###
 
