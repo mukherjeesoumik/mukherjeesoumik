@@ -11,7 +11,6 @@
     <img src="https://skillicons.dev/icons?i=java,mysql,html,css,figma" />
   </a>
 </p>
-
 ##
 
 <h3 align="center">Java Full Stack Developer and Backend Engineer</h3>
