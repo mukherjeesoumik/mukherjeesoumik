@@ -18,16 +18,16 @@
 
 <p align="center"> I also have experience in Frontend, Backend,  Mobile, Security</p>
 
-###
+##
 
 <h2 align="center"> JAVA | DSA | HTML/CSS | SQL | FLUTTER | JAVASCRIPT </h2>
 
-###
+##
 
 
 
 
-###
+##
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
 
@@ -126,7 +126,7 @@
 ###
 <img src="grid-snake-dark.svg" width="1920">
 ###
-
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
 
 <img src="Soumik.png" width="1920" >
 
