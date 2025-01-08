@@ -6,6 +6,12 @@
 
 <h1 align="center">Hi 👋! My name is Soumik Mukherjee and I'm from India 😁 </h1>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,sql,figma,c,vim" />
+  </a>
+</p>
+
 ###
 
 <h3 align="center">Java Full Stack Developer and Backend Engineer</h3>
@@ -18,7 +24,6 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ###
 
