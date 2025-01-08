@@ -111,12 +111,10 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=sublime" height="30" alt="sublime logo"  />
-     <img width="12" />
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
-</div>
  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sublime" height="30" alt="sublime logo"  />
-</div>
  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
