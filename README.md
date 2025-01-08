@@ -10,7 +10,7 @@
 
 <h3 align="center">Java Full Stack Developer and Backend Engineer</h3>
 
-<p align="center"> I also have experience in Frontend,Backend,  Mobile, Security</p>
+<p align="center"> I also have experience in Frontend, Backend,  Mobile, Security</p>
 
 ###
 
