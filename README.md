@@ -101,7 +101,26 @@
   <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipse logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=htmx" height="30" alt="htmx logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="idea logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="30" alt="npm logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="30" alt="sublime logo"  />
+     <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
 </div>
+ <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="30" alt="sublime logo"  />
+</div>
+ <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+</div>
+
 
 ###
 
