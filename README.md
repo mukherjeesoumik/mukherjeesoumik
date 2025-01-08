@@ -8,8 +8,6 @@
 <p align="center">
 <img src="hello.svg" width="350" >
 </p>
-
-
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> My name is SOUMIK MUKHERJEE and I'm from India 😉🎯 </h1>
 
 <p align="center">
