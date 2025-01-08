@@ -17,8 +17,6 @@
 <p align="center"> I also have experience in Frontend, Backend,  Mobile, Security</p>
 
 ##
-
-
 <h2 align="center"> JAVA | DSA | HTML/CSS | SQL | FLUTTER | JAVASCRIPT </h2>
 
 
