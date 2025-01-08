@@ -111,9 +111,10 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
 </div>
 
+###
 
 
-<h1 align="center">                     HELLO AND WELCOME 👋</h1>
+<h1 align="center">HELLO AND WELCOME 👋</h1>
 <h1 align="center">I'm Soumik Mukherjee </h1>
 
 <img src="Soumik.png">
