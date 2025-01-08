@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/soumikmukherjee2002/count.svg?" width="350" />
 </div>
