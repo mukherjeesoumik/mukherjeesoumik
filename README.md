@@ -31,8 +31,6 @@
 
 ###
 
-<img src="grid-snake-dark.svg" width="1920">
-
 
   <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
@@ -124,7 +122,7 @@
 
 
 ###
-
+<img src="grid-snake-dark.svg" width="1920">
 ###
 
 
