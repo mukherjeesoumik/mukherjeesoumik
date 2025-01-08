@@ -32,6 +32,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dsa" height="30" alt="dsa logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
