@@ -2,11 +2,11 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/soumikmukherjee2002/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/soumikmukherjee2002/count.svg?" width="350" />
 </div>
 
 <p align="center">
-<img src="hello.svg" width="300" >
+<img src="hello.svg" width="350" >
 </p>
 
 
