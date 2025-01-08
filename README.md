@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi 👋! My name is SOUMIK MUKHERJEE and I'm from India 😉🎯 </h1>
+<h1 align="center">Hi <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" />! My name is SOUMIK MUKHERJEE and I'm from India 😉🎯 </h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
