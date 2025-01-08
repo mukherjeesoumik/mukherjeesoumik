@@ -29,7 +29,7 @@
 
   <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="15" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=photoshop" height="30" alt="photoshop logo"  />
