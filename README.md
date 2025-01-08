@@ -24,7 +24,7 @@
 
 ###
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920"  />
+
 
 
 ###
@@ -121,14 +121,14 @@
  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920"  />
 
 ###
 <img src="grid-snake-dark.svg" width="1920">
 ###
 
 
-<img src="Soumik.png">
+<img src="Soumik.png" width="1920" >
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920"  />
 
