@@ -111,7 +111,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sublime" height="30" alt="sublime logo"  />
- <img width="120" />
+ <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
