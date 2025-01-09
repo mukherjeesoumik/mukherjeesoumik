@@ -128,8 +128,10 @@
 
 ##
 <img src="GAME.gif" width="1920" />
-- 📫 How to reach me *onlinekazama19@gmail.com* 
+- 📫 How to reach me *onlinekazama19@gmail.com*
 
+- 
+<img src="WALLLLL.png"  width="1920"  />
 <!---
 soumikjee/soumikjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
