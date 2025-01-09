@@ -25,7 +25,7 @@
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920"  />
-<img align="right" height="220" src="MYOM.gif"  />
+<img align="right" height="200" src="MYOM.gif"  />
 
   <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
