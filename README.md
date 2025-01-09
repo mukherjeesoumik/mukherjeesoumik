@@ -6,6 +6,8 @@
 </div>
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I am SOUMIK MUKHERJEE 😉🎯 <img src="CODE.gif" width="50" /> </h1>
 
+<img src="CODEMY.png" width="1920" />
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,mysql,html,css,figma" />
