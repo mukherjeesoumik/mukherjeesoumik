@@ -1,9 +1,7 @@
 <div align="center">
 <img src="hello.svg" width="350" >
 </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/soumikmukherjee2002/count.svg?" width="300" />
-</div>
+
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I am SOUMIK MUKHERJEE 😉🎯 <img src="CODE.gif" width="50" /> </h1>
 
 <img src="0000.jpeg"  width="1920"  />
